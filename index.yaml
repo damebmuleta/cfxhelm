@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cfxchart:
+  - apiVersion: v2
+    appVersion: 5.54.4
+    created: "2023-08-30T13:29:59.4147808+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5cd1d8c8595730df38b11807c3fdb78a0be83a30f7a04f49696bfe67f6185f75
+    name: cfxchart
+    type: application
+    urls:
+    - Packages/cfxchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-30T13:29:59.4109734+03:00"
